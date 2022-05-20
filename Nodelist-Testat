@@ -1,85 +1,85 @@
 id,name,country,type
 1,Florian_Müller,Deutschland,1
 Mainz,Mainz_05,Deutschland,2
-Deutschland,3
+Deutschland,,,3
 33,Fabian_Bredlow,Deutschland,1
 Nürnberg,1.FC Nürnberg,Deutschland,2
 42,Florian_Schock,Deutschland,1
 Stuttgart2,StuttgartII,Deutschland,2
 5,Konstantinos_Mavropanos,Griechenland,1
 Arsenal,FC.Arsenal,England,2
-Griechenland,3
+Griechenland,,,3
 2,Waldemar_Anton,Deutschland,1
 Hannover,Hannover96,Deutschland,2
-37,Hiroki Ito	Japan	1
-Iwata	Júbilo Iwata	Japan	2
-Japan			3
-24	Borna Sosa	Kroatien	1
-Zagreb	Dinamo Zagreb	Kroatien	2
-Kroatien			3
-15	Pascal Stenzel	Deutschland	1
-Freiburg	SC Freiburg	Deutschland	2
-23	Orel Mangala	Belgien	1
-Hamburg	Hamburger SV	Deutschland	2
-Belgien 			3
-Usbekistan			3
-DRKongo	DR Kongo		3
-3	Wataru Endo	Japan	1
-Truiden	VV St. Truiden	Deutschland	2
-16	Atakan Karazor	Deutschland	1
-Kiel	Holstein Kiel	Deutschland	2
-32	Naouirou Ahamada	Frankreich	1
-JuventursU23	Juventurs U23	Italien	2
-Frankreich			3
-Komoren			3
-6	Clinton Mola	England 	1
-ChelseaU23	Chelsea U23	England 	2
-England			3
-8	Enzo Millot	Frankreich	1
-Monaco	AS Monaco	Frankreich	2
-Martinique			3
-28	Nikolas Nartey	Daenemark	1
-Sandhausen	SV Sandhausen 	Deutschland	2
-Daenemark			3
-Ghana			3
-14	Silas	DR Kongo	1
-Paris	Paris FC	Frankreich	2
-30	Roberto Massimo	Deutschland	1
-Bielefeld	Arm. Bielefeld	Deutschland	2
-Italien			3
-11	Erik Thommy	Deutschland	1
-Düsseldorf	F. Düsseldorf	Deutschland	2
-31	Mateo Klimowicz	Deutschland	1
-AC	Instituto AC	Argentinien	2
-Argentinien			3
-25	Lilian Egloff	Deutschland	1
-StuttgartU19	Stuttgart U19	Deutschland	2
-34	Ömer Beyaz	Türkei	1
-Fenerbahce	Fenerbahce	Türkei	2
-Türkei			3
-10	Daniel Didavi	Deutschland	1
-Wolfsburg	VfL Wolfsburg	Deutschland	2
-Benin			3
-7	Tanguy Coulibaly	Frankreich	1
-ParisSGU19	Paris Saint-Germain U19 		2
-Elfenbeinkueste			3
-22	Chris Führich	Deutschland	1
-Paderborn	SC Paderbron	Deutschland	2
-9	Sasa Kalajdzic	Österreich	1
-Wacker	Admira Wacker	Österreich	2
-Österreich			3
-Serbien			3
-18	Tiago Tomás	Portugal 	1
-Sporting	Sporting	Portugal 	2
-Portugal			3
-17	Omar Marmoush	Aegypten	1
-Aegypten			3
-Kanada			3
-19	Wahid Faghir	Daenemark	1
-Vejle	Vejle BK	Daenemark	2
-Afghanistan			3
-50	Alexis Tibidi	Frankreich	1
-Kamerun			3
-44	Mohamed Sankoh	Niederlande	1
-Niederlande			3
-SL	Sierra Leone		3
+37,Hiroki_Ito,Japan,1
+Iwata,JúbiloIwata,Japan,2
+Japan,,,3
+24,Borna_Sosa,Kroatien,1
+Zagreb,DinamoZagreb,Kroatien,2
+Kroatien,,,3
+15,Pascal_Stenzel,Deutschland,1
+Freiburg,SCFreiburg,Deutschland,2
+23,Orel_Mangala,Belgien,1
+Hamburg,HamburgerSV,Deutschland,2
+Belgien,,,3
+Usbekistan,,,3
+DRKongo,,,3
+3,Wataru_Endo,Japan,1
+Truiden,VV_St.Truiden,Deutschland,2
+16,Atakan_Karazor,Deutschland,1
+Kiel,HolsteinKiel,Deutschland,2
+32,Naouirou_Ahamada,Frankreich,1
+JuventursU23,Juventurs_U23,Italien,2
+Frankreich,,,3
+Komoren,,,3
+6,Clinton_Mola,England,1
+ChelseaU23,Chelsea_U23,England,2
+England,3
+8,Enzo_Millo,Frankreich,1
+Monaco,ASMonaco,Frankreich,2
+Martinique,,,3
+28,Nikolas_Nartey,Daenemark,1
+Sandhausen,SVSandhausen,Deutschland,2
+Daenemark,,,3
+Ghana,,,3
+14,Silas,DRKongo,1
+Paris,ParisFC,Frankreich,2
+30,Roberto_Massimo,Deutschland,1
+Bielefeld,Arm.Bielefeld,Deutschland,2
+Italien,,,3
+11,Erik_Thommy,Deutschland,1
+Düsseldorf,F.Düsseldorf,Deutschland,2
+31,Mateo_Klimowicz,Deutschland,1
+AC,InstitutoAC,Argentinien,2
+Argentinien,,,3
+25,Lilian_Egloff,Deutschland,1
+StuttgartU19,StuttgartU19,Deutschland,2
+34,Ömer_Beyaz,Türkei,1
+Fenerbahce,Fenerbahce,Türkei,2
+Türkei,,,3
+10,Daniel_Didavi,Deutschland,1
+Wolfsburg,VfLWolfsburg,Deutschland,2
+Benin,,,3
+7,Tanguy_Coulibaly,Frankreich,1
+ParisSGU19,Paris-Saint-GermainU19,Frankreich,2
+Elfenbeinkueste,,,3
+22,Chris_Führich,Deutschland,1
+Paderborn,SCPaderbron,Deutschland,2
+9,Sasa_Kalajdzic,Österreich,1
+Wacker,AdmiraWacker,Österreich,2
+Österreich,,,3
+Serbien,,,3
+18,Tiago_Tomás,Portugal ,1
+Sporting,Sporting,Portugal,2
+Portugal,,,3
+17,Omar_Marmoush,Aegypten,1
+Aegypten,,,3
+Kanada,,,3
+19,Wahid Faghir,Daenemark,1
+Vejle,VejleBK,Daenemark,2
+Afghanistan,,,3
+50,Alexis_Tibidi,Frankreich,1
+Kamerun,,,3
+44,Mohamed_Sankoh,Niederlande,1
+Niederlande,,,3
+SL	Sierra Leone,,,3
