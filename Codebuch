@@ -1,0 +1,15 @@
+CODEBUCH					
+Im Codebuch definieren Sie, wie und nach welchen Kriterien erfasst werden.					
+					
+Wert	    Erklärung			
+edgelist	Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).				
+from	    definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort = von welchem Verein kommt der Spieler 				
+to 	      definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, = ID des Spielers (Rückennummer)				
+weight	  Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Skalen. = Transfersumme in 100.000 Euro Schritten, gerundet falls abweichend. 				
+season 	  definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde. = transferfenster. nur erste Jahreszahl des Fensters als JJJJ verwenden.				
+
+nodelist	Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.				
+id	      eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  = Rückennummer				
+name	    Name oder Bezeichnung des Knotens. = Name des Spielers				
+country	  Herkunftsland				
+type	    1: Kategorie für SpielerInfos, 2: Kategorie fürVereinsinfos, 3: Kategorie für das Land				
